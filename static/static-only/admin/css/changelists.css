@@ -267,7 +267,7 @@
 
 #changelist table input {
     margin: 0;
-    vertical-align: baseline;
+    vertical-align: line;
 }
 
 #changelist table tbody tr.selected {

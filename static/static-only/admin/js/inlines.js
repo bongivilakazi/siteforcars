@@ -2,7 +2,7 @@
 /**
  * Django admin inlines
  *
- * Based on jQuery Formset 1.1
+ * d on jQuery Formset 1.1
  * @author Stanislaus Madueke (stan DOT madueke AT gmail DOT com)
  * @requires jQuery 1.2.6 or later
  *
